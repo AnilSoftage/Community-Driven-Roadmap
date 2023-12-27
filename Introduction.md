@@ -1,0 +1,1 @@
+Community-driven roadmap involves collaboration, transparency, and engagement with external contributors. It is a template that you can adapt to suit your specific project or community. This roadmap is divided into different stages, and each stage involves input and collaboration from external contributors.
